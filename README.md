@@ -1,19 +1,16 @@
 
 # Lab 6 Web
-
 ```
-| Variable | Isi |
-| -------- | --- |
-| **Nama** | Dafa Alfiana Erlangga |
-| **NIM** | 312210 |
-| **Kelas** | TI.22.A4 |
-| **Mata Kuliah** | Pemrograman WEB |
+Nama : Dafa Alfiana Erlangga
+NIM : 312210446
+Kelas : TI.22.A4
+Mata Kuliah : Pemrograman WEB
 ```
 
 ## **Instruksi Praktikum**
 
 1. Persiapkan text editor misalnya VSCode.
-2. Buat folder baru dengan nama Lab3Web
+2. Buat folder baru dengan nama Lab6Web
 3. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
 4. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
 
